@@ -10,7 +10,7 @@ O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O
 - Pm2 (para executar os projetos NODE JS)
 - Vi (Vim)
 - Certbot (SSL)
-- SSMTP (para envio de notificações email)
+- SSMTP (para envio de notificações email via linha de comando linux)
 - NODEMAILER (para enviar email atraves do código NODE JS)
   
 ## Rotinas
