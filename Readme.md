@@ -1,6 +1,6 @@
 ## Projeto Gateway Node JS - HiTech Sistemas
 
-O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O objectivo é buscar informações bi-direcionais de Produtos e Pedidos, tratar a informação e dispachar "disparar" para API em pode PUT e POST
+O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O objectivo é buscar informações bi-direcionais de Produtos e Pedidos, tratar a informação e dispachar "disparar" para API utilizando métodos PUT e POST
 
 ## Tecnologias utilizadas
 
