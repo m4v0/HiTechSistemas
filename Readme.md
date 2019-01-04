@@ -21,15 +21,15 @@ O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O
 
 - Tela linha de comando: ```node index.js```
 
-![Console](https://raw.githubusercontent.com/m4v0/HiTechSistemas/master/ERP2COMM/ERP2ECOMM-CLI-SCREEN-01.png)
+![Console](https://user-images.githubusercontent.com/34343415/50668925-ec96ca80-0fa0-11e9-8c66-cfcbcd0e74a7.png)
 
 - Tela da linda de comando: ```node index.js -id=1```
 
-![Execute](https://raw.githubusercontent.com/m4v0/HiTechSistemas/master/ERP2COMM/ERP2ECOMM-CLI-SCREEN-02.png)
+![Execute](https://user-images.githubusercontent.com/34343415/50668932-f7515f80-0fa0-11e9-92f7-836bb32c58e5.png)
 
 - Tela de notificação via email.
   
-![Notification Email](https://raw.githubusercontent.com/m4v0/HiTechSistemas/master/ERP2COMM/ERP2ECOMM-CLI-SCREEN-03.png)
+![Notification Email](https://user-images.githubusercontent.com/34343415/50668939-fc161380-0fa0-11e9-8155-59231607c31a.png)
 
 ## Considerações Finais
 
