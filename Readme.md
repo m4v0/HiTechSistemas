@@ -17,4 +17,11 @@ O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O
 
 - O Crontab esta configurado para disparar o Gateway a cada 15min, monitorando novos produdos é atualizando-os.
 
-por questões de contrato não tenho autorização para publicar os códigos fontes, estarei apresentando apenas telas de processo executados.
+## Telas disponíveis
+
+![Console](https://raw.githubusercontent.com/m4v0/HiTechSistemas/master/ERP2COMM/ERP2ECOMM-CLI-SCREEN-01.png)
+
+## Considerações Finais
+
+Por questões de contrato não tenho autorização para publicar os códigos fontes, estarei apresentando apenas telas de processo executados.
+
