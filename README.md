@@ -34,6 +34,7 @@ O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O
 ![Notification Email](https://user-images.githubusercontent.com/34343415/50668939-fc161380-0fa0-11e9-8155-59231607c31a.png)
 
 - Tela ECOMM2ERP modo escuta servidor NODE JS, aguardando requisições GET/POST
+
 ![ECOMM2ERP](https://user-images.githubusercontent.com/34343415/50669821-4bab0e00-0fa6-11e9-82c5-3e6fd45c5aa9.png)
 
 ## Considerações Finais
