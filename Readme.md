@@ -19,6 +19,8 @@ O projeto consiste em realizar chamadas de API de dois sistemas WEB distintos. O
 
 ## Telas disponíveis
 
+- Tela linha de comando: ```node index.js```
+
 ![Console](https://raw.githubusercontent.com/m4v0/HiTechSistemas/master/ERP2COMM/ERP2ECOMM-CLI-SCREEN-01.png)
 
 ## Considerações Finais
